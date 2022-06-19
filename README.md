@@ -2,4 +2,7 @@
 
 I am
 
-- Sandeep Poudel
+
+-   Kedar Karki
+-   Ankit Adhikari
+-   Sandeep Poudel
